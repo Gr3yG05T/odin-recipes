@@ -1,2 +1,2 @@
-# odin-recipes
-Some recipes you can try!
+This is a recipies website.
+You can find great recipies you can try from here! :3
