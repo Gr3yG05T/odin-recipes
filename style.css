@@ -1,5 +1,9 @@
 *{color: #384a50;}
 *{background-color: beige;}
 *{font-family: "lucida console", bahnschrift, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
-*{text-align: center;}
-p{font-size: 20px; font-weight: 600;}
+.dibba{text-align: center;}
+.dibba p{font-size: 20px; font-weight: 600;}
+img {
+    border-radius: 15px; /* Adjust the number to make it more or less round */
+  }
+  
